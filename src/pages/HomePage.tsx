@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
       icon: '🤖',
     },
   ];
-  const contractAddress = "Contract address coming soon";
+  const contractAddress = "Aq1vZwY61YFGPF9cLAotxctiaCmxh1RMWXDtHRn8pump";
 
   const handleCopyAddress = () => {
     // Placeholder contract address - will be updated when token launches
@@ -231,8 +231,8 @@ const HomePage: React.FC = () => {
                     </div>
                     <div className="text-center">
                       <span className="inline-flex items-center px-4 py-2 rounded-full bg-gradient-to-r from-yellow-500/20 to-orange-500/20 border border-yellow-500/30 text-yellow-400 text-sm font-medium">
-                        <span className="w-2 h-2 bg-yellow-400 rounded-full mr-2 animate-pulse"></span>
-                        Coming Soon
+                        <span className="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></span>
+                        Live
                       </span>
                     </div>
                   </div>
