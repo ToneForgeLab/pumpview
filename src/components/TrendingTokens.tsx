@@ -218,7 +218,7 @@ const TrendingTokens: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="px-6 py-2 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg text-white text-sm font-medium hover:shadow-[0_0_20px_rgba(59,130,246,0.4)] transition-all duration-300"
-          onClick={() => window.open('https://twitter.com/pumpview', '_blank')}
+          onClick={() => window.open('https://x.com/pumpview_ai_sol', '_blank')}
         >
           View More
         </motion.button>

@@ -72,7 +72,7 @@ const HomePage: React.FC = () => {
             </Link>
             
             <button
-              onClick={() => window.open('https://twitter.com/pumpview', '_blank')}
+              onClick={() => window.open('https://x.com/pumpview_ai_sol', '_blank')}
               className="px-8 py-4 border border-blue-500/50 rounded-xl text-blue-400 font-medium hover:bg-blue-500/10 hover:shadow-[0_0_15px_rgba(59,130,246,0.3)] transition-all duration-300"
             >
               Follow Updates

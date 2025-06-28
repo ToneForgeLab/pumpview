@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
   };
 
   const handleTwitterClick = () => {
-    window.open('https://twitter.com/pumpview', '_blank', 'noopener,noreferrer');
+    window.open('https://x.com/pumpview_ai_sol', '_blank', 'noopener,noreferrer');
   };
 
   const handleWalletAction = () => {
