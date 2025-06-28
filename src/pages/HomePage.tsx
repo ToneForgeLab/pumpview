@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
       icon: '🤖',
     },
   ];
-  const contractAddress = "coming soon";
+  const contractAddress = "2QppGScqEFiqJHgw9PUY66cvQcs8oj95jFurQZ8mpump";
 
   const handleCopyAddress = () => {
     // Placeholder contract address - will be updated when token launches
