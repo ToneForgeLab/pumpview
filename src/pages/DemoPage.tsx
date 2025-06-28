@@ -116,7 +116,7 @@ const DemoPage: React.FC = () => {
               Follow our Twitter for the latest market analysis and platform updates
             </p>
             <motion.button
-              onClick={() => window.open('https://x.com/pumpview_ai_sol/pumpview', '_blank')}
+              onClick={() => window.open('https://x.com/pumpview_ai_sol', '_blank')}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="px-12 py-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl text-white font-bold text-lg hover:shadow-[0_0_30px_rgba(59,130,246,0.8)] transition-all duration-300 animate-pulse-glow"
